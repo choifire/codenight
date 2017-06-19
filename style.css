@@ -27,3 +27,7 @@ article{
 #control{
   float:right;
 }
+header img{
+  float: right;
+  height: 100px;
+}
